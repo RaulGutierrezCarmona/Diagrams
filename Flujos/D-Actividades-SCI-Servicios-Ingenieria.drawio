@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T18:26:55.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="7aO8TMmCT_3Zj0jLuhR0" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T18:39:56.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="vt6xWWACLwNaw8Fzuo7j" version="20.7.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1217" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="INGENIERIA" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry y="128" width="220" height="622" as="geometry" />
+          <mxGeometry x="10" y="128" width="210" height="622" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
           <mxGeometry x="80" y="40" width="30" height="30" as="geometry" />
@@ -29,11 +29,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XVA_VInoDTC9KtE7WLV4-41" value="Solo lo &quot;pre-autorizado&quot;    (se comentó en junta)" style="shape=note;whiteSpace=wrap;size=17;labelBackgroundColor=default;" parent="2" vertex="1">
-          <mxGeometry x="5.5" y="252" width="134.5" height="50" as="geometry" />
+          <mxGeometry x="15.5" y="252" width="134.5" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="XVA_VInoDTC9KtE7WLV4-42" value="" style="endArrow=none;endFill=0;rounded=0;dashed=1;entryX=0.57;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.383;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="2" target="XVA_VInoDTC9KtE7WLV4-41" edge="1" source="7">
+        <mxCell id="XVA_VInoDTC9KtE7WLV4-42" value="" style="endArrow=none;endFill=0;rounded=0;dashed=1;entryX=0.57;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2" target="XVA_VInoDTC9KtE7WLV4-41" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="160" as="sourcePoint" />
+            <mxPoint x="92" y="162" as="sourcePoint" />
             <mxPoint x="75.5" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
